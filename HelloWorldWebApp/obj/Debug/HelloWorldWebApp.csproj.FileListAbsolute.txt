@@ -1,0 +1,6 @@
+E:\SEIP.NET\Batch 20\2018.10.17\HelloWorldWebApp\HelloWorldWebApp\bin\HelloWorldWebApp.dll.config
+E:\SEIP.NET\Batch 20\2018.10.17\HelloWorldWebApp\HelloWorldWebApp\bin\HelloWorldWebApp.dll
+E:\SEIP.NET\Batch 20\2018.10.17\HelloWorldWebApp\HelloWorldWebApp\bin\HelloWorldWebApp.pdb
+E:\SEIP.NET\Batch 20\2018.10.17\HelloWorldWebApp\HelloWorldWebApp\obj\Debug\HelloWorldWebApp.csprojResolveAssemblyReference.cache
+E:\SEIP.NET\Batch 20\2018.10.17\HelloWorldWebApp\HelloWorldWebApp\obj\Debug\HelloWorldWebApp.dll
+E:\SEIP.NET\Batch 20\2018.10.17\HelloWorldWebApp\HelloWorldWebApp\obj\Debug\HelloWorldWebApp.pdb
